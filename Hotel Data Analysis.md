@@ -49,5 +49,5 @@ Total nights = sum(Query1[stays_in_week_nights])+SUM(Query1[stays_in_weekend_nig
 * Tableau Dashboard created ![image](https://user-images.githubusercontent.com/109593081/211798304-44211a73-922c-4f00-b163-c3c2d0012e38.png)
 
 
-
+Submission file [Hotel Data Analysis](Hotel analysis.pbix)
 
