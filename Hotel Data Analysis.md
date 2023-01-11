@@ -35,6 +35,19 @@ Build a visual story or dashboard using PowerBi to present to your stakeholders
   * we gonna navigate to new query, and exploring the data using SQL
   * Union three tables ![image](https://user-images.githubusercontent.com/109593081/211749492-aa86d42a-ea68-4a60-a055-48883a225953.png)
 * adding 2 columns
-*
+* Connecting powerBI using sql server database -![image](https://user-images.githubusercontent.com/109593081/211766733-ce589f6f-7a89-4f53-b619-9d0da458b7f2.png)
+* created hotel - ![image](https://user-images.githubusercontent.com/109593081/211794334-33aabfb0-a136-4025-953e-1f5d54380004.png)
+
+* Performed ETL 
+![image](https://user-images.githubusercontent.com/109593081/211794921-1779415f-564b-40e1-b07c-8e164f3ba9ae.png)
+* Created new column using calculated fields,Using Transform fields - ![image](https://user-images.githubusercontent.com/109593081/211795263-144e4209-df12-4427-a442-16ac84b30b49.png)
+* Created new measures in report
+
+parking percentage = SUM(Query1[required_car_parking_spaces])/[Total nights]
+
+Total nights = sum(Query1[stays_in_week_nights])+SUM(Query1[stays_in_weekend_nights])
+* Tableau Dashboard created ![image](https://user-images.githubusercontent.com/109593081/211798304-44211a73-922c-4f00-b163-c3c2d0012e38.png)
+
+
 
 
