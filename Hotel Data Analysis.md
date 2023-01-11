@@ -33,4 +33,8 @@ Build a visual story or dashboard using PowerBi to present to your stakeholders
   * Here select all datas and Run immediately
   * Now we have created our database and brought table inside,& these tables in SQL form
   * we gonna navigate to new query, and exploring the data using SQL
+  * Union three tables ![image](https://user-images.githubusercontent.com/109593081/211749492-aa86d42a-ea68-4a60-a055-48883a225953.png)
+* adding 2 columns
+*
+
 
